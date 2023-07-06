@@ -1,0 +1,35 @@
+Starting Epoch 1
+Training : Mean G loss : -0.11333774328359651 / Mean D loss : -0.39776908390432875 (251.09834384918213 seconds elapsed)
+Beam search...
+[0.25, 0.25, 0.25, 0.25]
+BLEU-4 score : 0.0009726108038343609
+Best BLEU so far : 0.0009726108038343609 (Epoch 1)
+Epoch finished in 266.2585394382477 seconds
+Starting Epoch 2
+Training : Mean G loss : -0.02466095801906347 / Mean D loss : -0.8686778266853261 (257.9801983833313 seconds elapsed)
+Beam search...
+[0.25, 0.25, 0.25, 0.25]
+BLEU-4 score : 2.336544485118014e-156
+Best BLEU so far : 0.0009726108038343609 (Epoch 1)
+Epoch finished in 268.0697515010834 seconds
+Starting Epoch 3
+Training : Mean G loss : -0.01720646131407278 / Mean D loss : -0.9034996508994949 (258.3692076206207 seconds elapsed)
+Beam search...
+[0.25, 0.25, 0.25, 0.25]
+BLEU-4 score : 0.002790213253554257
+Best BLEU so far : 0.002790213253554257 (Epoch 3)
+Epoch finished in 272.17823219299316 seconds
+Starting Epoch 4
+Training : Mean G loss : -0.020621785751679122 / Mean D loss : -0.869100236447058 (252.1064794063568 seconds elapsed)
+Beam search...
+[0.25, 0.25, 0.25, 0.25]
+BLEU-4 score : 2.794592719989606e-155
+Best BLEU so far : 0.002790213253554257 (Epoch 3)
+Epoch finished in 266.33162450790405 seconds
+Starting Epoch 5
+Training : Mean G loss : -0.014167556547082849 / Mean D loss : -0.9277873601868888 (261.813925743103 seconds elapsed)
+Beam search...
+[0.25, 0.25, 0.25, 0.25]
+BLEU-4 score : 1.531680313621287e-155
+Best BLEU so far : 0.002790213253554257 (Epoch 3)
+Epoch finished in 278.5607285499573 seconds
